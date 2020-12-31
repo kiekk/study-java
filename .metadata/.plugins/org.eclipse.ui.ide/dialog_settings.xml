@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\soonho\Desktop\it\JAVA\workspace\project"/>
+		<item value="C:\Users\soonho\Desktop\it\JAVA\workspace\project4"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\test"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\study"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\project4"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\project"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day24"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day23"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day22"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day21"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day20"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day19"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day18"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day17"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day16"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day15"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day14"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day13"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day12"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day11"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day10"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day09"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day08"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day07"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day06"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day05"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day04"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day03"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day02"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\java\workspace\day01"/>
+	</list>
+	<section name="ResourceNavigator">
+		<item value="Aggregate for window 1599125243913" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
+		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.emf.codegen.ecore.ui.wizardCategory"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jst.j2ee.internal"/>
+			<item value="org.eclipse.wst.jsdt.ui.java"/>
+		</list>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="711" key="DIALOG_HEIGHT"/>
+		<item value="941" key="DIALOG_X_ORIGIN"/>
+		<item value="307" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

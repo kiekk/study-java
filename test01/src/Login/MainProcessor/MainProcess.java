@@ -1,0 +1,10 @@
+package Login.MainProcessor;
+
+import Login.Login;
+
+public class MainProcess {
+	public static void main(String[] args) {
+		Login lg = new Login();
+		lg.LogIn();
+	}
+}
